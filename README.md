@@ -77,15 +77,20 @@ After developing the product, here’s a detailed revenue breakdown based on the
 
 ### Summary of Total Revenue Potential by Model
 
-| **Model**                 | **Clients** | **Initial Total Revenue** | **Monthly Recurring Revenue** | **Annual Revenue Potential** |
+| *Model*                 | *Clients* | *Initial Total Revenue* | *Monthly Recurring Revenue* | *Annual Revenue Potential* |
 |---------------------------|-------------|----------------------------|-------------------------------|------------------------------|
-| **One-Time License**      | 20 Clients  | $60,000                    | $0                            | $60,000                      |
+| *One-Time License*      | 5 Clients   | $15,000                    | $0                            | $15,000                      |
+|                           | 20 Clients  | $60,000                    | $0                            | $60,000                      |
 |                           | 50 Clients  | $150,000                   | $0                            | $150,000                     |
-| **Subscription Model**    | 20 Clients  | $0                         | $4,000                        | $48,000                      |
+|                           | 100 Clients | $300,000                   | $0                            | $300,000                     |
+| *Subscription Model*    | 5 Clients   | $0                         | $1,000                        | $12,000                      |
+|                           | 20 Clients  | $0                         | $4,000                        | $48,000                      |
 |                           | 50 Clients  | $0                         | $10,000                       | $120,000                     |
-| **Hybrid Model**          | 20 Clients  | $20,000                    | $2,000                        | $44,000                      |
+|                           | 100 Clients | $0                         | $20,000                       | $240,000                     |
+| *Hybrid Model*          | 5 Clients   | $5,000                     | $500                          | $11,000                      |
+|                           | 20 Clients  | $20,000                    | $2,000                        | $44,000                      |
 |                           | 50 Clients  | $50,000                    | $5,000                        | $110,000                     |
-
+|                           | 100 Clients | $100,000                   | $10,000                       | $220,000                     |
 ---
 
 
