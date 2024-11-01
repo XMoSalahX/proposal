@@ -102,4 +102,26 @@ After developing the product, here’s a detailed revenue breakdown based on the
 
 In cases of monthly and mixed subscriptions, the increase will be 10% + the inflation rate, added to the pricing for the last year annually.
 
+---
+
+### 1. One-Time License
+
+* **Total Cost**: $4,000  
+* **Payment Schedule**:
+  * **25% ($1,000)** - Upon Approval of UI/UX Design Summation
+  * **25% ($1,000)** - Upon Confirmation of UI/UX
+  * **50% ($2,000)** - Upon Project Completion and Final Testing
+
+### 2. Hybrid Model (Entry Fee + Monthly Subscription)
+
+* **Entry Fee**: $2,000 (one-time)
+* **Monthly Fee**: $150  
+* **Payment Schedule for Entry Fee**:
+  * **25% ($500)** - Upon Approval of UI/UX Design Summation
+  * **25% ($500)** - Upon Confirmation of UI/UX
+  * **50% ($1,000)** - Upon Project Completion and Final Testing
+
+---
+
+In the monthly and Hybrid subscription plans, the customer signs a two-year contract.
 
